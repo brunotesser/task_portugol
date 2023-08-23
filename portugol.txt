@@ -1,0 +1,33 @@
+INICIO:
+
+1. Abrir os olhos
+2. Levantar da cama
+3. Ir até o banheiro
+4. Pegar escova de dente com a mão direita
+5. Deixar escova de dente na pia
+6. Pegar pasta de dente com mão esquerda
+7. Pegar escova de dente com a mão direita
+8. Apertar a pasta de dente na escova de dente
+9. Se tiver acabado a pasta:
+    9.1 Apertar mais forte até sair
+    9.2 Jogar fora e pegar outra pasta
+10. Se não tiver acabo a pasta:
+    10.1 Colocar pasta de dente na escova de dente
+    10.2 Ligar torneira
+    10.3 Molhar a escova de dente com pasta
+    10.4 Fechar a torneira
+11. Escovar os dentes
+12. Deixar pasta de dente guardado denovo
+13. Abrir torneira de agua
+14. Colocar mão e pegar um pouco de agua até a boca
+15. Fazer um enxague 
+16. Cuspir na pia
+17. Colocar escova de dente na agua
+18. Desligar a torneira
+19. Guardar escova de dente
+20. Ir até a cozinha
+21. Pegar uma toalha
+22. Enxugar o rosto e a boca
+23. Guardar a toalha
+
+FIM.
